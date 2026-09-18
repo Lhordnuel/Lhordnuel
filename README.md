@@ -1,4 +1,4 @@
-# Hi, I'm Lhordnuel 👋
+# Hi, I'm Emmanuel 👋
 
 **Founder building useful software from first principles.**
 
